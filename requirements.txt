@@ -4,3 +4,5 @@ langchain_openai
 sentence-transformers
 faiss-cpu
 python-dotenv
+langchain-community
+youtube-transcript-api
