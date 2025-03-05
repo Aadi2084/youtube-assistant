@@ -17,10 +17,12 @@ Run the app:
 `streamlit run main.py`  
 
 ## 📌 Deployment on Streamlit Cloud  
+```
 Push your code to GitHub:  
 git add .
 git commit -m "Initial commit"
 git push origin main
+```
 Then, deploy via [Streamlit Community Cloud](https://share.streamlit.io/) by linking your GitHub repository.
 
 ## 🛠 Technologies Used  
