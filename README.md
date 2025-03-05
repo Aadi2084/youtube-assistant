@@ -1,4 +1,4 @@
-# youtube-assistant
+# 🎥 youtube-assistant
 
 YouTube Assistant is a Streamlit-powered web app that allows users to ask questions about YouTube videos based on their transcripts. It utilizes **LangChain**, **FAISS**, and **Sentence Transformers** to retrieve and process relevant video content.
 
